@@ -4,6 +4,6 @@
 * Java ( Iniciante )
 * SQL ( Iniciante )
 
-  Foco : Trabalhar com Segurança digital + backend.
+  Foco : Aprender Segurança digital + backend.
 
-  ***Não estou usando muito github***, estou postando o que aprendo no meu discord pessoal, só uso github para aprender em código alheio.
+  ***Não estou usando muito github***, estou postando o que aprendo no meu discord pessoal, só uso github para aprender em código alheio por enquanto e codando oq aprendo.
