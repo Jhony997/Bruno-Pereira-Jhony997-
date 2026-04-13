@@ -2,7 +2,7 @@
 
 ## Estudando Atualmente :
 * Java ( Iniciante )
-* MSQL ( Iniciante )
+* SQL ( Iniciante )
 
   Foco : Trabalhar com Segurança digital + backend.
 
