@@ -1,4 +1,4 @@
-# Jhony997 ( Bruno Pereira )
+# Jhony997
 
 ## Estudando Atualmente :
 * Java ( Iniciante )
